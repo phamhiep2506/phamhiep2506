@@ -33,6 +33,11 @@
 ![Vim](http://img.shields.io/badge/-Vim-009933?style=flat-square&logo=vim&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+### OS
+![Arch](http://img.shields.io/badge/-Arch-1793d1?style=flat-square&logo=arch-linux&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Windown](http://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=ffffff)
+
 ### Contact
 <p align="center">
 &nbsp; <a href="https://fb.com/phamhiep2506" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" width="50" /></a>
