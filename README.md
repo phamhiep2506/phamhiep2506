@@ -2,7 +2,7 @@
 
 ![dev.gif](dev.gif)
 
-## I'm a Software Engineer
+## I'm a Developer
 
 [![phamhiep2506 gitHub stats](https://github-readme-stats.vercel.app/api?username=phamhiep2506&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
