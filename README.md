@@ -6,7 +6,7 @@
 
 [![phamhiep2506 gitHub stats](https://github-readme-stats.vercel.app/api?username=phamhiep2506&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![phamhiep2506 top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhiep2506&layout=compact&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![phamhiep2506 top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhiep2506&langs_count=5&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill & Programming Language
 
