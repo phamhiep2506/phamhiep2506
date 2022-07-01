@@ -2,7 +2,7 @@
 
 ![dev.gif](dev.gif)
 
-[![phamhiep2506 gitHub stats](https://github-readme-stats.vercel.app/api?username=phamhiep2506&show_icons=true&theme=gruvbox)](https://github.com/phamhiep2506)
+[![phamhiep2506 gitHub stats](https://github-readme-stats.vercel.app/api?username=phamhiep2506&show_icons=true&theme=tokyonight)](https://github.com/phamhiep2506)
 
 ## Skill & Programming Language
 <!-- ### FrontEnd -->
