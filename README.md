@@ -33,3 +33,29 @@
 
 ## Contact
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/phamhiep2506)
+
+##
+```txt
+傲 气 面 对 万 重 浪
+Ngạo khí diện đối vạn trùng lãng
+热 血 像 那 红 日 光
+Nhiệt huyết tượng na hồng nhật quang
+胆 似 铁 打, 骨 如 精 钢
+Đảm tự thiết đả, cốt như tinh cương
+胸 襟 百 千 丈
+Hung khâm bách thiên trượng
+眼 光 万 里 长
+Nhãn quang vạn lý trường
+誓 发 奋 图 强
+Thệ phát phấn đồ cường
+做 好 汉
+Tố hảo hán
+做 个 好 汉 子
+Tố cá hảo hán tử
+每 天 要 自 强
+Mỗi thiên yếu tự cường
+热 血 男 子 汉
+Nhiệt huyết nam tử hán
+比 太 阳 更 光
+Tỷ thái dương cánh quang
+```
