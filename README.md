@@ -32,7 +32,7 @@
             <span>
               🔭 I’m currently working on
             </span>
-            <a href="https://google.com/search?q=HaNoi,%20VietNam" target="_blank">HaNoi, VietNam</a>
+            <a href="https://google.com/search?q=HaNoi%20City,%20VietNam" target="_blank">HaNoi City, VietNam</a>
           </li>
           <li>
             <span>
@@ -54,8 +54,6 @@
       </td>
     </tr>
   </table>
-
-  <img src="./line.gif" />
 
   <h2>
     <b>Skills</b>
@@ -99,8 +97,6 @@
     </a>
   </p>
 
-  <img src="./line.gif" />
-
   <h2>
     <b>Github Stats</b>
   </h2>
@@ -111,8 +107,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamhiep2506&theme=gruvbox" />
   </p>
 
-  <img src="./line.gif" />
-
   <h2>
     <b>Contact Me</b>
   </h2>
@@ -122,7 +116,5 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamhiep2506" height="30" width="40" />
     </a>
   </p>
-
-  <img src="./line.gif" />
 
 </body>
