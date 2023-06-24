@@ -1,12 +1,6 @@
 <body>
 
   <p align="center">
-    <a href="https://user-images.githubusercontent.com/64464369/222916537-f3cf7686-c9a9-4268-a232-7451483b16bf.mp4" target="_blank">
-      ▶️ Audio
-    </a>
-  </p>
-
-  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=phamhiep2506" />
   </p>
   
