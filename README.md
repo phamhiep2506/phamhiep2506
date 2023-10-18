@@ -1,9 +1,5 @@
 <body>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=phamhiep2506" />
-  </p>
-  
   <h2>
     <b>About Me</b>
   </h2>
@@ -39,12 +35,13 @@
           </li>
         </ul>
       </td>
-      <td>
-        <img src="./about.gif" alt="about.gif" />
-      </td>
     </tr>
   </table>
 
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=phamhiep2506" />
+  </p>
+  
   <h2>
     <b>Skills</b>
   </h2>
@@ -59,19 +56,7 @@
   </h2>
 
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamhiep2506&theme=gruvbox" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamhiep2506&theme=gruvbox" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamhiep2506&theme=gruvbox" />
-  </p>
-
-  <h2>
-    <b>Contact Me</b>
-  </h2>
-
-  <p align="center">
-    <a href="https://fb.com/phamhiep2506" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamhiep2506" height="30" width="40" />
-    </a>
   </p>
 
 </body>
