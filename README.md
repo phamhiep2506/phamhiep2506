@@ -47,7 +47,7 @@
   </h2>
   <p align="center">
     <a href="https://github.com/phamhiep2506" target="_blank">
-      <img src="https://skillicons.dev/icons?i=c,cs,js,react,dotnet,linux,vim" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,dotnet,linux,vim" />
     </a>
   </p>
 
