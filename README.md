@@ -1,42 +1,8 @@
 <body>
 
-  <h2>
-    <b>About Me</b>
-  </h2>
-
-  <table align="center">
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <span>
-            🌱 I'm a
-            <a href="https://google.com/search?q=web%20developer" target="_blank">web developer</a>
-            </span>
-          </li>
-          <li>
-            <span>
-              🔭 I’m currently working on
-            </span>
-            <a href="https://google.com/search?q=HaNoi%20City,%20VietNam" target="_blank">HaNoi City, VietNam</a>
-          </li>
-          <li>
-            <span>
-              👨‍💻 All of my projects are available at
-            </span>
-            <a href="https://github.com/phamhiep2506?tab=repositories" target="_blank">github</a>
-          </li>
-          <li>
-            <span>
-              ⚡ Fun fact: I love to
-              <a href="https://google.com/search?q=programing" target="_blank">programing,</a>
-              <a href="https://google.com/search?q=music" target="_blank">music</a>
-            </span>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/6e9989d4-22bb-49f7-8cc3-7056a34c12bc">
+  </p>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=phamhiep2506" />
