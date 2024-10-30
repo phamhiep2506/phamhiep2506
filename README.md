@@ -1,11 +1,11 @@
 <body>
 
   <p align="center">
-    <img alt="yuki" src="https://github.com/user-attachments/assets/6e9989d4-22bb-49f7-8cc3-7056a34c12bc">
+    <img src="https://raw.githubusercontent.com/phamhiep2506/phamhiep2506/refs/heads/master/yuki.gif">
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=phamhiep2506" />
+    <img src="https://count.getloli.com/@phamhiep2506?name=phamhiep2506&theme=booru-lisu" />
   </p>
   
   <h2>
