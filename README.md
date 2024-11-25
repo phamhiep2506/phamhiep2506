@@ -1,9 +1,6 @@
 <body>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/phamhiep2506/phamhiep2506/refs/heads/master/yuki.gif">
-  </p>
-  <p align="center">
     <img src="https://count.getloli.com/@phamhiep2506?name=phamhiep2506" />
   </p>
   
